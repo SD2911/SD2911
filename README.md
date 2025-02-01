@@ -1,5 +1,5 @@
  
-<br>About Me:<br><br>🎓 I’m currently studying<br>Electrical and Electronic Engineering (EEE) at Ahsanullah University of Science and Technology.<br><br>🖥️ I’m currently working on<br>Enhancing my skills in competitive programming, IoT embedded systems, and Python projects.<br><br>🤝 I’m looking to collaborate on<br>Web development projects, IoT applications, and data-driven machine learning models.<br><br>🛠️ I’m looking for help with<br>Advanced competitive programming techniques and real-world ML applications.<br><br>💬 Ask me about<br>IoT systems, Python development, or getting started with competitive programming.<br><br>⚡ Fun fact<br>I love blending software and hardware by creating IoT-based solutions with real-world impact!<br><br><br><br><br>
+<br>About Me:<br><br>🎓 I’m currently studying<br>Electrical and Electronic Engineering (EEE) at Ahsanullah University of Science and Technology.<br><br>🖥️ I’m currently working on<br>Enhancing my skills in competitive programming, IoT embedded systems, and Python projects.<br><br><br>
 
 
 ## 🌐 Socials:
