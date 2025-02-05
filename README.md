@@ -1,5 +1,5 @@
  
-<br>About Me:<br><br>🎓 I’m currently studying<br>Electrical and Electronic Engineering (EEE) at Ahsanullah University of Science and Technology.<br><br>🖥️ I’m currently working on<br>Enhancing my skills in competitive programming, IoT embedded systems, and Python projects.<br><br><br>
+<br>About Me:<br>🎓 I’m currently studying<br>Electrical and Electronic Engineering (EEE) at Ahsanullah University of Science and Technology.<br><br>🖥️ I’m currently working on<br>Enhancing my skills in competitive programming, IoT embedded systems, and Python projects.<br><br>
 
 
 ## 🌐 Socials:
