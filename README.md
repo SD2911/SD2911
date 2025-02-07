@@ -12,6 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SD2911&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SD2911&theme=dark&hide_border=false" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SD2911&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+ ![Profile Views](https://komarev.com/ghpvc/?username=SD2911&color=blue)
 
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=SD2911&theme=dark&no-frame=false&no-bg=true&margin-w=4" />
